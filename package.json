@@ -41,7 +41,10 @@
   },
   "lint-staged": {
     "*.{js,ts,tsx}": [
-      "cross-env NODE_ENV=development eslint --cache"
+      "yarn lint"
+    ],
+    "{*.json,.{babelrc,eslintrc,prettierrc,stylelintrc}}": [
+      "prettier --ignore-path .eslintignore --parser json --write"
     ]
   },
   "renovate": {
