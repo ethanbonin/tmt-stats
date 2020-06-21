@@ -1,79 +1,47 @@
 {
-  "name": "stats",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^14.0.13",
-    "@typescript-eslint/eslint-plugin": "^3.3.0",
-    "@typescript-eslint/parser": "^3.3.0",
-    "eslint": "^7.3.0",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "nodemon": "^2.0.4",
-    "rimraf": "^3.0.2",
-    "stylelint": "^13.6.1",
-    "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-standard": "^20.0.0",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.5"
-  },
-  "scripts": {
-    "dev": "nodemon",
-    "build": "rimraf ./build && tsc",
-    "lint": "cross-env NODE_ENV=development eslint . --cache --ext .js,.jsx,.ts,.tsx",
-    "start": "yarn build && node build/index.js"
-  },
-  "dependencies": {
-    "prettier": "^2.0.5"
-  },
-  "stylelint": {
-    "extends": [
-      "stylelint-config-standard",
-      "stylelint-config-prettier"
-    ],
-    "rules": {
-      "color-no-invalid-hex": true,
-      "block-no-empty": null,
-      "comment-empty-line-before": [
-        "always",
-        {
-          "ignore": ["stylelint-commands", "after-comment"]
+    "name": "stats",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^14.0.13",
+        "@typescript-eslint/eslint-plugin": "^3.3.0",
+        "@typescript-eslint/parser": "^3.3.0",
+        "eslint": "^7.3.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "husky": "^4.2.5",
+        "lint-staged": "^10.2.11",
+        "nodemon": "^2.0.4",
+        "rimraf": "^3.0.2",
+        "stylelint": "^13.6.1",
+        "stylelint-config-prettier": "^8.0.2",
+        "stylelint-config-standard": "^20.0.0",
+        "stylelint-prettier": "^1.1.2",
+        "ts-node": "^8.10.2",
+        "typescript": "^3.9.5"
+    },
+    "scripts": {
+        "dev": "nodemon",
+        "build": "rimraf ./build && tsc",
+        "lint": "cross-env NODE_ENV=development eslint . --cache --ext .js,.jsx,.ts,.tsx",
+        "start": "yarn build && node build/index.js"
+    },
+    "dependencies": {
+        "prettier": "^2.0.5"
+    },
+    "lint-staged": {
+        "*.{js,ts,tsx}": ["eslint --cache"],
+        "{*.json,.{babelrc,eslintrc,prettierrc,stylelintrc}}": [
+            "prettier --ignore-path .eslintignore --parser json --write"
+        ]
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
         }
-      ],
-      "max-empty-lines": 2,
-      "color-hex-case": [
-        "lower",
-        {
-          "message": "Lowercase letters are easier to distinguish from numbers"
-        }
-      ],
-      "indentation": [
-        2,
-        {
-          "except": ["block"],
-          "message": "Please use 2 spaces for indentation.",
-          "severity": "warning"
-        }
-      ]
+    },
+    "renovate": {
+        "extends": ["bliss"]
     }
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{js,ts,tsx}": [
-      "yarn lint"
-    ],
-    "{*.json,.{babelrc,eslintrc,prettierrc,stylelintrc}}": [
-      "prettier --ignore-path .eslintignore --parser json --write"
-    ]
-  },
-  "renovate": {
-    "extends": [
-      "bliss"
-    ]
-  }
 }
