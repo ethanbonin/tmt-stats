@@ -12,17 +12,26 @@
     "eslint-plugin-prettier": "^3.1.4",
     "nodemon": "^2.0.4",
     "rimraf": "^3.0.2",
+    "stylelint": "^13.6.1",
+    "stylelint-config-standard": "^20.0.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
   },
   "scripts": {
     "dev": "nodemon",
     "build": "rimraf ./build && tsc",
-    "lint": "yarn eslint . --ext .js,.jsx,.ts,.tsx",
+    "lint": "cross-env NODE_ENV=development eslint . --cache --ext .js,.jsx,.ts,.tsx",
     "start": "yarn build && node build/index.js"
   },
   "dependencies": {
     "prettier": "^2.0.5"
+  },
+  "stylelint": {
+    "extends": [
+      "stylelint-config-standard",
+      "stylelint-config-prettier"
+    ],
+    "rules": {}
   },
   "husky": {
     "hooks": {
@@ -31,7 +40,7 @@
   },
   "lint-staged": {
     "*.{js,ts,tsx}": [
-      "eslint --fix"
+      "cross-env NODE_ENV=development eslint --cache"
     ]
   }
 }
