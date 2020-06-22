@@ -1,5 +1,4 @@
 import AppStoreConnectController from './controllers/AppStoreConnectController';
-import AppStoreError from './types/AppStoreError';
 import * as fs from 'fs';
 
 const appStoreConnectController = new AppStoreConnectController();
