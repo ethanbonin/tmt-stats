@@ -1,17 +1,17 @@
-enum Filter {
+export enum Filter {
     DAILY = 'DAILY',
     WEEKLY = 'WEEKLY',
     MONTHLY = 'MONTHLY',
     YEARLY = 'YEARLY',
 }
 
-enum ReportSubType {
+export enum ReportSubType {
     SUMMARY = 'SUMMARY',
     DETAILED = 'DETAILED',
     OPT_IN = 'OPT_IN',
 }
 
-enum ReportType {
+export enum ReportType {
     SALES = 'SALES',
     PRE_ORDER = 'PRE_ORDER',
     NEWSSTAND = 'NEWSSTAND',
@@ -19,5 +19,3 @@ enum ReportType {
     SUBSCRIPTION_EVENT = 'SUBSCRIPTION_EVENT',
     SUBSCRIBER = 'SUBSCRIBER',
 }
-
-export { Filter, ReportSubType, ReportType };
