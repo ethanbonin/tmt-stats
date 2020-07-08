@@ -1,0 +1,8 @@
+Event Date	Event	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Promotional Offer Name	Promotional Offer ID	Subscription Offer Type	Subscription Offer Duration	Marketing Opt-In	Marketing Opt-In Duration	Preserved Pricing	Proceeds Reason	Consecutive Paid Periods	Original Start Date	Client	Device	State	Country	Previous Subscription Name	Previous Subscription Apple ID	Days Before Canceling	Cancellation Reason	Days Canceled	Quantity
+2020-07-03	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-07-03		iPhone	AL	US		 	 	 	 	1
+2020-07-03	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			11	2019-08-20		iPhone	LA	US		 	 	 	 	1
+2020-07-03	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			2	2020-05-20		iPhone	FL	US		 	 	 	 	1
+2020-07-03	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			4	2020-03-20		iPhone	CA	US		 	 	 	 	1
+2020-07-03	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-07-03		iPhone	CO	US		 	 	 	 	1
+2020-07-03	Paid Subscription from Introductory Offer	Text Me That	1329223000	Quarterly Subscription	1462460316	20430061	3 Months	 	 				 			1	2020-06-19		iPhone	CA	US		 	 	 	 	1
+2020-07-02	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-07-02		iPhone	ON	CA		 	 	 	 	1

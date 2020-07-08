@@ -1,0 +1,12 @@
+Event Date	Event	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Promotional Offer Name	Promotional Offer ID	Subscription Offer Type	Subscription Offer Duration	Marketing Opt-In	Marketing Opt-In Duration	Preserved Pricing	Proceeds Reason	Consecutive Paid Periods	Original Start Date	Client	Device	State	Country	Previous Subscription Name	Previous Subscription Apple ID	Days Before Canceling	Cancellation Reason	Days Canceled	Quantity
+2020-06-12	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 		Rate After One Year	13	2019-05-29		iPhone	CA	US		 	 	 	 	1
+2020-06-12	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 		Rate After One Year	16	2019-03-12		iPhone	WA	US		 	 	 	 	1
+2020-06-12	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			10	2019-08-29		iPhone	LA	US		 	 	 	 	1
+2020-06-13	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			2	2020-04-29		iPhone	FL	US		 	 	 	 	1
+2020-06-11	Paid Subscription from Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			1	2020-05-28		iPhone	NY	US		 	 	 	 	1
+2020-06-11	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			9	2019-09-27		iPhone	TX	US		 	 	 	 	1
+2020-06-12	Paid Subscription from Introductory Offer	Text Me That	1329223000	Quarterly Subscription	1462460316	20430061	3 Months	 	 				 			1	2020-05-29		iPhone	TX	US		 	 	 	 	1
+2020-06-12	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			4	2020-02-27		iPhone	CA	US		 	 	 	 	1
+2020-06-12	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 		Rate After One Year	16	2019-03-12		iPhone	PA	US		 	 	 	 	1
+2020-06-12	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			1	2020-04-28		iPhone	CA	US		 	26	Canceled	 	1
+2020-06-12	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-06-12		iPad	TX	US		 	 	 	 	1

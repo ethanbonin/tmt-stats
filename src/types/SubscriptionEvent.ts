@@ -1,0 +1,30 @@
+export default interface SubscriptionEvent {
+    event_date: string;
+    event: string;
+    app_name: string;
+    app_apple_id: string;
+    subscription_name: string;
+    subscription_apple_id: string;
+    subscription_group_id: string;
+    standard_subscription_duration: string;
+    promotional_offer_name: string;
+    promotional_offer_id: string;
+    subscription_offer_type: string;
+    subscription_offer_duration: string;
+    marketing_opt_in: string;
+    marketing_opt_in_duration: string;
+    preserved_pricing: string;
+    proceeds_reason: string;
+    consecutive_paid_periods: string;
+    original_start_date: string;
+    client: string;
+    device: string;
+    state: string;
+    country: string;
+    previous_subscription_name: string;
+    previous_subscription_apple_id: string;
+    days_before_canceling: string;
+    cancellation_reason: string;
+    days_canceled: string;
+    quantity: string;
+}

@@ -1,0 +1,10 @@
+Event Date	Event	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Promotional Offer Name	Promotional Offer ID	Subscription Offer Type	Subscription Offer Duration	Marketing Opt-In	Marketing Opt-In Duration	Preserved Pricing	Proceeds Reason	Consecutive Paid Periods	Original Start Date	Client	Device	State	Country	Previous Subscription Name	Previous Subscription Apple ID	Days Before Canceling	Cancellation Reason	Days Canceled	Quantity
+2020-07-04	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-07-04		iPhone	MD	US		 	 	 	 	1
+2020-07-04	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-06-20		iPhone	ME	US		 	10	Canceled	 	1
+2020-07-04	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-06-20		iPhone	LA	US		 	2	Canceled	 	1
+2020-07-04	Paid Subscription from Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			1	2020-06-20		iPhone	WI	US		 	 	 	 	1
+2020-07-04	Start Introductory Offer	Text Me That	1329223000	Quarterly Subscription	1462460316	20430061	3 Months	 	 	Free Trial	2 Weeks		 			0	2020-07-04		iPhone	KY	US		 	 	 	 	1
+2020-07-04	Paid Subscription from Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			1	2020-06-20		iPhone	PA	US		 	 	 	 	1
+2020-07-04	Start Introductory Offer	Text Me That	1329223000	Half Year Subscription	1462460113	20430061	6 Months	 	 	Free Trial	2 Weeks		 			0	2020-07-04		iPhone	ID	US		 	 	 	 	1
+2020-07-04	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-07-04		iPhone	UT	US		 	 	 	 	1
+2020-07-04	Start Introductory Offer	Text Me That	1329223000	Quarterly Subscription	1462460316	20430061	3 Months	 	 	Free Trial	2 Weeks		 			0	2020-07-04		iPhone	FL	US		 	 	 	 	2

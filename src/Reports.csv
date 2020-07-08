@@ -1,0 +1,53 @@
+﻿event date,event,subscription name,subscription offer type,subscription offer duration,consecutive paid periods,original start date,device,state,country,days before canceling,days canceled,activated from trail
+"2020-06-11","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-11","iPhone","TN","US"," "," ",FALSE
+"2020-06-12","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-12","iPad","TX","US"," "," ",FALSE
+"2020-06-13","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-13","iPhone","DE","US"," "," ",TRUE
+"2020-06-13","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-13","iPhone","CA","US"," "," ",TRUE
+"2020-06-14","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-14","iPhone","CO","US"," "," ",TRUE
+"2020-06-15","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-15","iPhone","TX","US"," "," ",TRUE
+"2020-06-16","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-16","iPhone","MO","US"," "," ",FALSE
+"2020-06-17","Start Introductory Offer","Quarterly Subscription","Free Trial","2 Weeks","0","2020-06-17","iPhone","FL","US"," "," ",TRUE
+"2020-06-18","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-18","iPhone","LA","US"," "," ",TRUE
+"2020-06-19","Start Introductory Offer","Quarterly Subscription","Free Trial","2 Weeks","0","2020-06-19","iPhone","CA","US"," "," ",TRUE
+"2020-06-20","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-20","iPhone","LA","US"," "," ",TRUE
+"2020-06-20","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-20","iPhone","PA","US"," "," ",TRUE
+"2020-06-20","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-20","iPhone","ME","US"," "," ",FALSE
+"2020-06-20","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-20","iPhone","WI","US"," "," ",FALSE
+"2020-06-21","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-21","iPhone","CO","US"," "," ",FALSE
+"2020-06-21","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-21","iPhone","OH","US"," "," ",FALSE
+"2020-06-21","Start Introductory Offer","Ultimate Yearly","Free Trial","2 Weeks","0","2020-06-21","iPhone","OH","US"," "," ",FALSE
+"2020-06-22","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-22","iPhone","CA","US"," "," ",FALSE
+"2020-06-23","Start Introductory Offer","Quarterly Subscription","Free Trial","2 Weeks","0","2020-06-23","iPad","NY","US"," "," ",FALSE
+"2020-06-24","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-24","iPhone","CA","US"," "," ",FALSE
+"2020-06-25","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-25","iPhone","NY","US"," "," ",FALSE
+"2020-06-25","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-25","iPhone","OR","US"," "," ",FALSE
+"2020-06-26","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-26","iPhone","MO","US"," "," ",FALSE
+"2020-06-27","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-13","iPhone","CA","US"," "," ",TRUE
+"2020-06-27","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-27","iPhone","NM","US"," "," ",FALSE
+"2020-06-27","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-13","iPhone","DE","US"," "," ",TRUE
+"2020-06-28","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-14","iPhone","CO","US"," "," ",TRUE
+"2020-06-29","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-15","iPhone","TX","US"," "," ",TRUE
+"2020-06-29","Start Introductory Offer","Half Year Subscription","Free Trial","2 Weeks","0","2020-06-29","iPhone","AZ","US"," "," ",FALSE
+"2020-06-30","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-30","iPhone","NV","US"," "," ",FALSE
+"2020-06-30","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-06-30","iPhone","IL","US"," "," ",FALSE
+"2020-07-01","Paid Subscription from Introductory Offer","Quarterly Subscription","","","1","2020-06-17","iPhone","FL","US"," "," ",TRUE
+"2020-06-30","Start Introductory Offer","Half Year Subscription","Free Trial","2 Weeks","0","2020-06-30","iPhone","GA","US"," "," ",FALSE
+"2020-07-01","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-01","iPad","TN","US"," "," ",FALSE
+"2020-07-01","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-01","iPhone","IN","US"," "," ",FALSE
+"2020-07-01","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-01","iPhone","MA","US"," "," ",FALSE
+"2020-07-01","Start Introductory Offer","Quarterly Subscription","Free Trial","2 Weeks","0","2020-07-01","iPhone","KS","US"," "," ",FALSE
+"2020-07-02","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-02","iPhone","AL","US"," "," ",FALSE
+"2020-07-02","Start Introductory Offer","Half Year Subscription","Free Trial","2 Weeks","0","2020-07-02","iPhone","TX","US"," "," ",FALSE
+"2020-07-02","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-18","iPhone","LA","US"," "," ",TRUE
+"2020-07-02","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-02","iPhone","WV","US"," "," ",FALSE
+"2020-07-03","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-03","iPhone","AL","US"," "," ",FALSE
+"2020-07-03","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-03","iPhone","CO","US"," "," ",FALSE
+"2020-07-03","Paid Subscription from Introductory Offer","Quarterly Subscription","","","1","2020-06-19","iPhone","CA","US"," "," ",TRUE
+"2020-07-02","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-02","iPhone","ON","CA"," "," ",FALSE
+"2020-07-04","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-04","iPhone","MD","US"," "," ",FALSE
+"2020-07-04","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-20","iPhone","WI","US"," "," ",TRUE
+"2020-07-04","Start Introductory Offer","Quarterly Subscription","Free Trial","2 Weeks","0","2020-07-04","iPhone","KY","US"," "," ",FALSE
+"2020-07-04","Paid Subscription from Introductory Offer","Ultimate Monthly","","","1","2020-06-20","iPhone","PA","US"," "," ",TRUE
+"2020-07-04","Start Introductory Offer","Half Year Subscription","Free Trial","2 Weeks","0","2020-07-04","iPhone","ID","US"," "," ",FALSE
+"2020-07-04","Start Introductory Offer","Ultimate Monthly","Free Trial","2 Weeks","0","2020-07-04","iPhone","UT","US"," "," ",FALSE
+"2020-07-04","Start Introductory Offer","Quarterly Subscription","Free Trial","2 Weeks","0","2020-07-04","iPhone","FL","US"," "," ",FALSE

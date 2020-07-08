@@ -1,0 +1,12 @@
+Event Date	Event	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Promotional Offer Name	Promotional Offer ID	Subscription Offer Type	Subscription Offer Duration	Marketing Opt-In	Marketing Opt-In Duration	Preserved Pricing	Proceeds Reason	Consecutive Paid Periods	Original Start Date	Client	Device	State	Country	Previous Subscription Name	Previous Subscription Apple ID	Days Before Canceling	Cancellation Reason	Days Canceled	Quantity
+2020-06-30	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-06-30		iPhone	NV	US		 	 	 	 	1
+2020-06-30	Start Introductory Offer	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-06-30		iPhone	IL	US		 	 	 	 	1
+2020-06-30	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 	Free Trial	2 Weeks		 			0	2020-06-16		iPhone	MO	US		 	3	Canceled	 	1
+2020-06-30	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			10	2019-08-18		iPhone	FL	US		 	 	 	 	1
+2020-07-01	Paid Subscription from Introductory Offer	Text Me That	1329223000	Quarterly Subscription	1462460316	20430061	3 Months	 	 				 			1	2020-06-17		iPhone	FL	US		 	 	 	 	1
+2020-06-30	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			3	2020-03-16		iPhone	QC	CA		 	102	Canceled	 	1
+2020-06-30	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			11	2019-07-07		iPhone	CA	US		 	357	Canceled	 	1
+2020-06-30	Cancel	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			1	2020-05-16		iPhone	NJ	US		 	18	Canceled	 	1
+2020-06-30	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 		Rate After One Year	21	2018-10-30		iPhone	AZ	US		 	 	 	 	1
+2020-06-30	Renew	Text Me That	1329223000	Ultimate Monthly	1436495589	20430061	1 Month	 	 				 			10	2019-09-13		iPhone	KY	US		 	 	 	 	1
+2020-06-30	Start Introductory Offer	Text Me That	1329223000	Half Year Subscription	1462460113	20430061	6 Months	 	 	Free Trial	2 Weeks		 			0	2020-06-30		iPhone	GA	US		 	 	 	 	1
