@@ -34,7 +34,7 @@
     "dependencies": {
         "@types/jsonwebtoken": "^8.5.0",
         "@types/lodash": "^4.14.157",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "csv-parse": "^4.10.1",
         "cvs-writer": "^0.0.1",
         "export-to-csv": "^0.2.1",
